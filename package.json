@@ -12,7 +12,7 @@
     "@react-native-community/datetimepicker": "3.0.0",
     "@react-native-community/masked-view": "0.1.10",
     "@use-expo/font": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "^39.0.0",
     "expo-contacts": "~8.5.0",
     "expo-localization": "~9.0.0",
