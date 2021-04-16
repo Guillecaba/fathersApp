@@ -24,7 +24,7 @@
     "formik": "^2.1.4",
     "i18n-iso-countries": "^5.2.0",
     "i18n-js": "^3.5.1",
-    "jsrsasign": "^8.0.20",
+    "jsrsasign": "^10.2.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "moment": "^2.18.1",
